@@ -1,0 +1,5 @@
+{
+  "name": "MV Prompt Generator",
+  "description": "Generate visual image prompts for music videos at 5-second intervals based on lyrics using Gemini AI reasoning.",
+  "requestFramePermissions": []
+}
